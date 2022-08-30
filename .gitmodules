@@ -1,3 +1,6 @@
-[submodule "helloworld-project/oca/currency"]
-	path = helloworld-project/oca/currency
+[submodule "oca/currency"]
+	path = oca/currency
 	url = git@github.com:OCA/currency.git
+[submodule "oca/server-auth"]
+	path = oca/server-auth
+	url = git@github.com:OCA/server-auth.git
