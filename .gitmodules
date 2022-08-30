@@ -1,0 +1,3 @@
+[submodule "helloworld-project/oca/currency"]
+	path = helloworld-project/oca/currency
+	url = git@github.com:OCA/currency.git
