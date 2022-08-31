@@ -4,3 +4,9 @@
 [submodule "oca/server-auth"]
 	path = oca/server-auth
 	url = git@github.com:OCA/server-auth.git
+[submodule "oca/muk_web"]
+	path = oca/muk_web
+	url = git@github.com:muk-it/muk_web.git
+[submodule "oca/storage"]
+	path = oca/storage
+	url = git@github.com:OCA/storage.git
